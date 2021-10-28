@@ -1,5 +1,43 @@
 <h1 align="center">Welcome to 1999! 👋</h1>
 
-<br/>
-!(https://img.shields.io/badge/Language-Java-brightgreen)
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-brightgreen" />
+  <img src="https://img.shields.io/badge/Platform-Android-blue" />
+  <img src="https://img.shields.io/badge/Contributers-5-red" />
+</p>
+
+## Description 📝
+
+After lockdowns, quarantines, mask mandates, and an overall pandemic induced panic, who wants to turn back the clock a little bit?
+
+Despite being "connected" on our phones 24-7, this past year, many young adults faced an ever increasing feeling of isolation -- a lack of an intimate connection to those they once saw on a daily basis. Despite how quirky we make our masks or how many Zoom happy hours we attend there is no replacing the genuine connection we were once so famaliar with.
+
+At 1999! we aim to solve this problem by creating an application that enables people to get together in physical spaces post covid-19 -- either through house parties, official events, or kickbacks. We encourage a robust peer-to-peer user engagement and rely on in-app feedback to keep our app safe, functional, and always up to date. 
+
+You will be able to (things we can do with the app/filters)
+
+## Prerequisites 💻
+
+Before you begin, ensure you have met the following requirements:<br/>
+✅ &nbsp; You have `Android Studio` installed on your machine <br/>
+✅ &nbsp; You have a Android Device or Emulator with Android Version 6.0 or above. <br/>
+✅ &nbsp; You want to party like it's 1999! <br/>
+
+## Installing Android 1999! App 📥
+
+## Running the sample app 🚀
+
+## Contributors 🤝 
+Thanks to the following people who have contributed to this project:<br/>
+* **Vikram Aditya Sharma**
+  * (https://github.com/vsharma8363)<br/>
+* **Stefan Mrakovcic**
+  * (https://github.com/sm7541) <br/>
+* **Jason Liu**
+  * (https://github.com/MrBliu)<br/>
+* **Franco Daloisio**
+  * (https://github.com/fda253)<br/>
+* **Bea Litonjua**
+  * (https://github.com/blitonjua)<br/>
+
+## Contact 📫

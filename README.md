@@ -7,12 +7,13 @@
 </p>
 
 ## Table of Contents 🗂
-* [Description](https://github.com/sm7541/Readme#description-)
-* [Prerequisites](https://github.com/sm7541/Readme#prerequisites-)
-* [Installing](https://github.com/sm7541/Readme#installing-android-1999-app-)
-* [Running](https://github.com/sm7541/Readme#running-the-sample-app-)
-* [Contributers](https://github.com/sm7541/Readme#contributors-)
-* [Contact](https://github.com/sm7541/Readme#contributors-)
+
+  * [Description](https://github.com/sm7541/Readme#description-)<br/>
+  * [Prerequisites](https://github.com/sm7541/Readme#prerequisites-)<br/>
+  * [Installing](https://github.com/sm7541/Readme#installing-android-1999-app-)<br/>
+  * [Running](https://github.com/sm7541/Readme#running-the-sample-app-)<br/>
+  * [Contributers](https://github.com/sm7541/Readme#contributors-)<br/>
+  * [Contact](https://github.com/sm7541/Readme#contributors-)<br/>
 
 ## Description 📝
 

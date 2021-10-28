@@ -7,12 +7,12 @@
 </p>
 
 ## Table of Contents 🗂
-* Description
-* Prerequisites 
-* Installing
-* Running
-* Contributers
-* Contact
+* [Description](https://github.com/sm7541/Readme#description-)
+* [Prerequisites](https://github.com/sm7541/Readme#prerequisites-)
+* [Installing](https://github.com/sm7541/Readme#installing-android-1999-app-)
+* [Running](https://github.com/sm7541/Readme#running-the-sample-app-)
+* [Contributers](https://github.com/sm7541/Readme#contributors-)
+* [Contact](https://github.com/sm7541/Readme#contributors-)
 
 ## Description 📝
 
@@ -49,6 +49,6 @@ Thanks to the following people who have contributed to this project:<br/>
   * [blitonjua](https://github.com/blitonjua)<br/>
 
 ## Contact 📫
-For any questions regarding use, appropriation, or distribution of 1999!, please contact Vikram Aditya Sharma @
+For any questions regarding use, appropriation, or distribution of 1999!, please contact Vikram Sharma @
 * GitHub: [vsharma8363](https://github.com/vsharma8363)
 * Email: vas360@nyu.edu

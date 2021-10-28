@@ -10,7 +10,7 @@
 
 After lockdowns, quarantines, mask mandates, and an overall pandemic induced panic, who wants to turn back the clock a little bit?
 
-Despite being "connected" on our phones 24-7, this past year, many young adults faced an ever increasing feeling of isolation -- a lack of an intimate connection to those they once saw on a daily basis. Despite how quirky we make our masks or how many Zoom happy hours we attend there is no replacing the genuine connection we were once so famaliar with.
+Despite being "connected" on our phones 24-7, this past year, many young adults faced an ever increasing feeling of isolation -- a lack of an intimate connection to those they once saw on a daily basis. It doesn't matter how quirky we make our masks or how many Zoom happy hours we attend there is no replacing the genuine connection we were once so famaliar with.
 
 At 1999! we aim to solve this problem by creating an application that enables people to get together in physical spaces post covid-19 -- either through house parties, official events, or kickbacks. We encourage a robust peer-to-peer user engagement and rely on in-app feedback to keep our app safe, functional, and always up to date. 
 

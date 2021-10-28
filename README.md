@@ -30,14 +30,17 @@ Before you begin, ensure you have met the following requirements:<br/>
 ## Contributors 🤝 
 Thanks to the following people who have contributed to this project:<br/>
 * **Vikram Aditya Sharma**
-  * (https://github.com/vsharma8363)<br/>
+  * [vsharma8363](https://github.com/vsharma8363)<br/>
 * **Stefan Mrakovcic**
-  * (https://github.com/sm7541) <br/>
+  * [sm7541](https://github.com/sm7541) <br/>
 * **Jason Liu**
-  * (https://github.com/MrBliu)<br/>
+  * [MrBliu](https://github.com/MrBliu)<br/>
 * **Franco Daloisio**
-  * (https://github.com/fda253)<br/>
+  * [fda253](https://github.com/fda253)<br/>
 * **Bea Litonjua**
-  * (https://github.com/blitonjua)<br/>
+  * [blitonjua](https://github.com/blitonjua)<br/>
 
 ## Contact 📫
+For any questions regarding use, appropriation, or distribution of 1999!, please contact Vikram Aditya Sharma @
+* GitHub: [vsharma8363](https://github.com/vsharma8363)
+* Email: vas360@nyu.edu

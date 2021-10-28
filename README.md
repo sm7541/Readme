@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Contributers-5-red" />
 </p>
 
+## Table of Contents 🗂
+* Description
+* Prerequisites 
+* Installing
+* Running
+* Contributers
+* Contact
+
 ## Description 📝
 
 After lockdowns, quarantines, mask mandates, and an overall pandemic induced panic, who wants to turn back the clock a little bit?
